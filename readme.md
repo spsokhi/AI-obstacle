@@ -20,7 +20,7 @@ A visual representation of a genetic algorithm on a population of "agents" who h
 ## Installation
 1. Clone the Repository:
    ```
-   git clone https://github.com/yourusername/AI-obstacle.git
+   git clone https://github.com/spsokhi/AI-obstacle.git
    cd AI-obstacle
   
 2. Install http-server:
